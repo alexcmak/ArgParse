@@ -79,6 +79,7 @@ int main(int argc, char* argv[])
             {
                 fprintf(fp, "%s", response);
                 printf("answer written in %s", output_file);
+                fclose(fp);
             }
         }
         else
