@@ -14,7 +14,7 @@ A good command line program will have familiar conventions such as:
 
 ## C 
 
-In the olden days, but not crazy old days of computing (80's to 90's), one of the biggest languages at the time was C. 
+In the 80's and 90's, one of the biggest languages at the time was C. 
 C did not, and still does not include a standard way to parse command lines. If you work with Unix, and Linux, there is 
 [getopt()](https://en.wikipedia.org/wiki/Getopt) which is part of the [POSIX](https://en.wikipedia.org/wiki/POSIX) standard. If you work on the PC and offered DOS based products, you are on your own.
 
